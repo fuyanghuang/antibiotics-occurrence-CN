@@ -1,4 +1,4 @@
-# antibiotics in Chinese environment (2009-2019)
+# Antibiotics in Chinese environment (2009-2019)
 
 A decennial national synthesis of antibiotics in China’s environmental compartments (2009-2019)
 
