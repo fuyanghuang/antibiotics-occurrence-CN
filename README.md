@@ -1,4 +1,4 @@
-# A decennial national synthesis of antibiotics in China’s environmental compartments (2009-2019)
+# Recognition of typical antibiotic residues in environmental media related to groundwater in China (2009-2019)
 
 Authors: Fuyang Huang, Ziyi An, Michael J. Moran*, Fei Liu*
 
